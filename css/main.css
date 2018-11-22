@@ -10,8 +10,52 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: Ubuntu, sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #18294f;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #6c8fe0;
+}
+
+@media only screen and (min-width: 25em) {
+
+
+}
+
+@media only screen and (min-width: 38em) {
+
+
+}
+
+@media only screen and (min-width: 60em) {
+
+
+}
+
+@media only screen and (min-width: 90em) {
+
+
+
 }
