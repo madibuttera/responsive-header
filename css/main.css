@@ -24,6 +24,7 @@ body {
 header {
   background-color: #18294f;
   color: #fff;
+  padding: .3em 0 .5em;
 }
 
 header h1 {
