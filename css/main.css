@@ -47,6 +47,7 @@ nav a {
   text-decoration: none;
   color: #6c8fe0;
   font-weight: bold;
+  white-space: nowrap;
 }
 
 nav a:hover {
@@ -112,4 +113,5 @@ nav a:hover {
   html {
     font-size: 130%;
   }
+
 }
